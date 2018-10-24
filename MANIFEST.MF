@@ -1,0 +1,2 @@
+Manifest-Version: 1.2
+Class-Path: lib/javassist-3.18.1-GA.jar

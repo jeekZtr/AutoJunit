@@ -1,0 +1,6 @@
+
+Wings-让单元测试智能全自动生成
+htps://my.oschina.net/u/3916602/blog/1922732
+
+自动生成Junit单元测试的插件 CodeProAnalytix
+https://www.cnblogs.com/zzzong/p/6854029.html
